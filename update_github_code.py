@@ -16,7 +16,11 @@ REPOS = [
             "convert_OCT_files.py",
             "convert_OCT_files_imagej_supplement.ijm"
         ]
-    }
+    },
+    {
+        "repo_name": "In_vivo_image_compilation",
+        "files_to_update": "in_vivo_image_compilation.py"
+	}
 ]
 BRANCH = "main"
 
