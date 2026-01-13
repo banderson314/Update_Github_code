@@ -19,7 +19,7 @@ REPOS = [
     },
     {
         "repo_name": "In_vivo_image_compilation",
-        "files_to_update": "in_vivo_image_compilation.py"
+        "files_to_update": ["in_vivo_image_compilation.py"]
 	}
 ]
 BRANCH = "main"
